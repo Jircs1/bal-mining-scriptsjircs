@@ -67,3 +67,4 @@ urllib3==1.25.11
 varint==1.0.2
 web3==5.12.2
 websockets==8.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
